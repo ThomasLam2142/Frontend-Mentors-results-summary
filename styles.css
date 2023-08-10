@@ -1,0 +1,18 @@
+.attribution { 
+    font-size: 20px; 
+    position: absolute;
+    bottom: 0;
+}
+    
+    
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+.faded-text{
+    color:rgb(101, 101, 101);
+}
