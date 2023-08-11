@@ -1,9 +1,17 @@
+@font-face {
+    font-family: "myFirstFont";
+    src:url("assets/fonts/static/HankenGrotesk-Medium.ttf");
+}
+
+h2{
+    font-family: myFirstFont;
+}
+
 .attribution { 
     font-size: 20px; 
     position: absolute;
     bottom: 0;
-}
-    
+}   
     
 .attribution a { 
     color: hsl(228, 45%, 44%); 
@@ -15,4 +23,8 @@
 
 .faded-text{
     color:rgb(101, 101, 101);
+}
+
+.font-test{
+    font-family: 'HankenGrotesk-Medium';
 }
