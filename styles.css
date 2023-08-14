@@ -5,9 +5,16 @@
 
 h2{
     font-family: myFirstFont;
+    font-size: 35px;
+}
+
+h3{
+    font-family: myFirstFont;
+    font-size: 27px;
 }
 
 .attribution { 
+    font-family: myFirstFont;
     font-size: 20px; 
     position: absolute;
     bottom: 0;
@@ -18,13 +25,19 @@ h2{
 }
 
 .bold-text{
+    font-family: myFirstFont;
     font-weight: bold;
 }
 
 .faded-text{
+    font-family: myFirstFont;
     color:rgb(101, 101, 101);
 }
 
 .font-test{
     font-family: 'HankenGrotesk-Medium';
+}
+
+.general-text{
+    font-family: myFirstFont;
 }
